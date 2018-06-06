@@ -3,6 +3,14 @@
     "plugins": ["node_modules/jsdoc-vue"],
     "source": {
       "includePattern": "\\.(vue|js)$"
-    }
+    },
+    "sourceType": "module",
+    "title": "前端文档 gen by JsDoc",
+    "opts": {
+      "template": "templates/default",  
+      "encoding": "utf8",               
+      "destination": "./JsDoc/",          
+      "recurse": true
+  }
   }
   

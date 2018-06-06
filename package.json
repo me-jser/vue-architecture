@@ -11,7 +11,7 @@
     "test": "npm run unit",
     "lint": "eslint --ext .js,.vue src test/unit",
     "build": "node build/build.js",
-    "jsdoc": "jsdoc -c config/jsdoc.json src/*.vue"
+    "jsdoc": "node build/build-jsdoc.js"
   },
   "dependencies": {
     "vue": "^2.5.2",
