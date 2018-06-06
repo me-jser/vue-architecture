@@ -80,22 +80,16 @@
         </a>
       </li>
     </ul>
-   <Doc></Doc>
   </div>
 </template>
 
 <script>
-import Doc from './DocTest/JsdocTest';
-import test from './DocTest/TestDoc.js';
 export default {
   name: 'HelloWorld',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
     }
-  },
-  components:{
-    Doc
   }
 }
 </script>

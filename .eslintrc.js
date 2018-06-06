@@ -24,6 +24,10 @@ module.exports = {
     // allow async-await
     'generator-star-spacing': 'off',
     // allow debugger during development
-    'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off'
+    'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+    // 分号代表语句的结束，缺少分号容易导致解析错误，尤其是在uglify以后
+    //semi:'always',
+    // FIXME: 可行性
+    'no-space-before-semi': true
   }
 }
