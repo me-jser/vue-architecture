@@ -1,6 +1,6 @@
 {
   "name": "front-end-structure",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "common front end architecture",
   "author": "JohnSmith",
   "private": true,
@@ -14,11 +14,13 @@
     "jsdoc": "node dev-script/build-jsdoc.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.0",
+    "lodash": "^4.17.10",
+    "qs": "^6.5.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
-    "vuex": "^3.0.1",
-    "axios": "^0.18.0"
-
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -26,6 +28,7 @@
     "babel-eslint": "^8.2.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "babel-loader": "^7.1.1",
+    "babel-plugin-component": "^1.1.1",
     "babel-plugin-istanbul": "^4.1.1",
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-plugin-transform-runtime": "^6.22.0",

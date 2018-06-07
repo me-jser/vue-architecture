@@ -7,10 +7,9 @@
     "sourceType": "module",
     "title": "前端文档 gen by JsDoc",
     "opts": {
-      "template": "templates/default",  
-      "encoding": "utf8",               
-      "destination": "./JsDoc/",          
+      "template": "templates/default",
+      "encoding": "utf8",
+      "destination": "./JsDoc/",
       "recurse": true
   }
   }
-  

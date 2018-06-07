@@ -1,1 +1,2 @@
-export const GET_TEST_DATA = 'GET_TEST_DATA'
+export const SAVE_TEST_DATA = 'SAVE_TEST_DATA'
+export const API_REQ_FAILED = 'API_REQ_FAILED'

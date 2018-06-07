@@ -6,6 +6,15 @@ import router from './router'
 import {
   createStore
 } from './store/index'
+import {
+  Message,
+  Loading
+} from 'element-ui'
+
+Vue.use(Loading.directive)
+
+Vue.prototype.$loading = Loading.service
+Vue.prototype.$message = Message
 Vue.config.productionTip = false
 const store = createStore()
 /* eslint-disable no-new */
