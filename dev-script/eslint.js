@@ -5,27 +5,26 @@
 */
 const {
   exec
-} = require('child_process');
+} = require('child_process')
 
 // 前两项为运行参数
-let nodeParams = process.argv;
-let params = process.argv.slice(2)[0];
+let nodeParams = process.argv
+let params = process.argv.slice(2)[0]
 debugger
-let partern = 'fix';
+let partern = 'fix'
 let eslintCommand = ''
 if (params === partern) {
-  eslintCommand = 'eslint --ext .js,.vue src  test/unit --fix'
+  eslintCommand = 'eslint --fix --ext .js,.vue src  test/unit'
 } else {
   eslintCommand = 'eslint --ext .js,.vue src test/unit'
 }
-console.log(params, params === partern, nodeParams);
+console.log(params, params === partern, nodeParams)
 
 exec(eslintCommand, (err, stdout, stderr) => {
-
   if (err) {
-    console.log(stderr);
+    console.log(stderr)
   }
-  console.log(stdout);
-});
+  console.log(stdout)
+})
 
 // TODO: finish it

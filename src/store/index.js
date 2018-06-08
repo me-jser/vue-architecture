@@ -1,8 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import actions from './modules/actions'
-import mutations from './modules/mutations'
-import getters from './modules/getters'
+import HelloVuex from './modules/HelloVuex'
 
 Vue.use(Vuex)
 
@@ -14,14 +12,10 @@ export function createStore () {
      * @export
      * @returns  处理之后的state树
      */
-    state: () => {
-      let state = {
-        testData: null
-      }
-      return Object.preventExtensions(state)
+    state: {
     },
-    actions,
-    mutations,
-    getters
+    modules: {
+      HelloVuex
+    }
   })
 }

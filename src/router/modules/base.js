@@ -2,5 +2,5 @@ export default [{
   path: '/',
   name: 'HelloWorld',
   component: () =>
-    import('@/components/HelloWorld')
+    import('@/components/demo/HelloWorld')
 }]

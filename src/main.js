@@ -8,14 +8,33 @@ import {
 } from './store/index'
 import {
   Message,
-  Loading
+  Loading,
+  Table,
+  TableColumn,
+  Input,
+  Button,
+  Select,
+  Option
 } from 'element-ui'
 
+import http from './api/apiList'
+/**
+ * 按需加载element-ui
+ * @module vue/baseConfig
+ * @config
+ */
 Vue.use(Loading.directive)
-
+Vue.use(Table)
+Vue.use(TableColumn)
+Vue.use(Input)
+Vue.use(Button)
+Vue.use(Select)
+Vue.use(Option)
 Vue.prototype.$loading = Loading.service
 Vue.prototype.$message = Message
+Vue.prototype.$http = http
 Vue.config.productionTip = false
+
 const store = createStore()
 /* eslint-disable no-new */
 new Vue({
