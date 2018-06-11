@@ -11,7 +11,8 @@
     "test": "npm run unit",
     "eslint": "node dev-script/eslint.js",
     "build": "node build/build.js",
-    "jsdoc": "node dev-script/build-jsdoc.js"
+    "jsdoc": "node dev-script/build-jsdoc.js",
+    "preinstall": "npm i -g eslint jsdoc commitizen cz-customizable"
   },
   "dependencies": {
     "axios": "^0.18.0",
