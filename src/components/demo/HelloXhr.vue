@@ -29,21 +29,20 @@ export default {
     return {
       msg: '接口数据请求demo',
       loading: false,
-      testData:[]
+      testData: []
     }
   },
   methods: {
     getData () {
       this.loading = true
-     this.$http.testData()
-     .then(res => {
-    this.testData = res;
-     })
-     .catch(e => {
-       debugger
-       console.log(e);
-
-     })
+      this.$http.testData()
+        .then(res => {
+          this.testData = res
+        })
+        .catch(e => {
+          debugger
+          console.log(e)
+        })
     }
   },
   mounted () {

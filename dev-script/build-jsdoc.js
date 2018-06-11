@@ -2,8 +2,9 @@ const notifier = require('node-notifier')
 const {
   exec
 } = require('child_process')
+var colors = require('./colors') // does not alter string prototype
 
-exec('rm -rf JsDoc && jsdoc -c config/jsdoc.json src', (err, stdout, stderr) => {
+exec('rm -rf JsDoc && jsdoc -c config/jsdoc.json src dev-script', (err, stdout, stderr) => {
   if (err) {
     notifier.notify({
       title: 'JsDoc 生成失败',
@@ -13,7 +14,7 @@ exec('rm -rf JsDoc && jsdoc -c config/jsdoc.json src', (err, stdout, stderr) => 
     console.log(stderr)
     return
   }
-  console.log('文档生成成功! >>JsDoc')
+  console.log(colors.consoleGreen, '文档生成成功! >>JsDoc')
   notifier.notify({
     title: 'JsDoc生成成功',
     message: '文档位于项目根目录>>JsDoc,访问index.html访问即可',
@@ -21,5 +22,4 @@ exec('rm -rf JsDoc && jsdoc -c config/jsdoc.json src', (err, stdout, stderr) => 
     closeLabel: true
   })
 })
-
-//  TODO: 1. 移除之前目录 2. 增加更多参数 --dir 3. jsdoc模板
+// TODO: 更换模板样式

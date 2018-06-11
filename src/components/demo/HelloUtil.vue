@@ -5,16 +5,16 @@ Vue<template>
 </template>
 
 <script>
-import { objectValidation } from "@/util/utils";
+import { objectValidation } from '@/util/utils'
 export default {
-  name: "HelloWorld",
-  data() {
+  name: 'HelloWorld',
+  data () {
     return {
-      msg: "Welcome to Your Vue.js App"
-    };
+      msg: 'Welcome to Your Vue.js App'
+    }
   },
   methods: {
-    objValidae() {
+    objValidae () {
       let o = {
         t: {
           s: {
@@ -23,16 +23,16 @@ export default {
             }
           }
         }
-      };
-      if (objectValidation(o, "t.s.a")) {
-        console.log("bingo");
+      }
+      if (objectValidation(o, 't.s.a')) {
+        console.log('bingo')
       }
     }
   },
-  mounted() {
-    this.objValidae();
+  mounted () {
+    this.objValidae()
   }
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

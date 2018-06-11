@@ -17,41 +17,41 @@
 </template>
 <script>
 export default {
-  name: "hello-vuex",
-  data() {
+  name: 'hello-vuex',
+  data () {
     return {
-      inputStr: "",
-      value5:[],
+      inputStr: '',
+      value5: [],
       options: [{
-          value: '选项1',
-          label: '黄金糕'
-        }, {
-          value: '选项2',
-          label: '双皮奶'
-        }, {
-          value: '选项3',
-          label: '蚵仔煎'
-        }, {
-          value: '选项4',
-          label: '龙须面'
-        }, {
-          value: '选项5',
-          label: '北京烤鸭'
-        }]
-    };
+        value: '选项1',
+        label: '黄金糕'
+      }, {
+        value: '选项2',
+        label: '双皮奶'
+      }, {
+        value: '选项3',
+        label: '蚵仔煎'
+      }, {
+        value: '选项4',
+        label: '龙须面'
+      }, {
+        value: '选项5',
+        label: '北京烤鸭'
+      }]
+    }
   },
   computed: {
-    data() {
-      return this.$store.getters.testDataGetter;
+    data () {
+      return this.$store.getters.testDataGetter
     }
   },
   methods: {
-    setData() {
+    setData () {
       debugger
-      this.$store.dispatch("setTestData", this.inputStr);
+      this.$store.dispatch('setTestData', this.inputStr)
     }
   }
-};
+}
 </script>
 <style>
 </style>

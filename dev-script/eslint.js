@@ -1,30 +1,58 @@
-/*  @description 处理eslint，根据命令行是否有--fix 来决定是否使用eslint的 --fix 选项
-/*  author : xiaoshuai11
-/*  date   : 2018-6-3 16:15:37
-/*  last   : 2018-6-3 16:15:37
-*/
+
+/**
+ * @file eslint
+ * @description eslint检查工具，通过nodejs代理。如果未通过检查会询问用户是否进行autofix。只能选择y/n。 确认后会进行autofix
+ * @version 0.1.0
+ * @since 0.1.0
+ * @requires eslint
+ * @module scripts/eslint
+ */
+let prompt = require('prompt')
 const {
   exec
 } = require('child_process')
+let colors = require('./colors')
+let defaultCommand = 'eslint --ext .js,.vue src test/unit'
+let fixCommand = 'eslint --fix --ext .js,.vue src  test/unit'
 
-// 前两项为运行参数
-let nodeParams = process.argv
-let params = process.argv.slice(2)[0]
-debugger
-let partern = 'fix'
-let eslintCommand = ''
-if (params === partern) {
-  eslintCommand = 'eslint --fix --ext .js,.vue src  test/unit'
-} else {
-  eslintCommand = 'eslint --ext .js,.vue src test/unit'
-}
-console.log(params, params === partern, nodeParams)
-
-exec(eslintCommand, (err, stdout, stderr) => {
+exec(defaultCommand, (err, stdout, stderr) => {
   if (err) {
     console.log(stderr)
   }
-  console.log(stdout)
-})
+  if (stdout) {
+    console.log(stdout)
+    console.log(colors.consoleRed, '检查未通过，请选择是否进行自动修复(使用eslint --fix)')
 
-// TODO: finish it
+    let schema = {
+      properties: {
+        input: {
+          pattern: /y|n/,
+          message: '只能选择y或n',
+          required: true,
+          default: 'y'
+        }
+      }
+    }
+    prompt.start()
+
+    prompt.get(schema, function (err, result) {
+      if (err) {
+        console.log(colors.consoleRed, err)
+        return
+      }
+      if (result.input === 'y') {
+        exec(fixCommand, (err, stdout, stderr) => {
+          if (err) {
+            console.log(colors.consoleRed, '自动修复失败' + stdout, stderr)
+          } else {
+            console.log(colors.consoleGreen, '自动修复完成' + stdout, stderr)
+          }
+        })
+      } else {
+        console.log(colors.consoleRed, '用户放弃使用autofix')
+      }
+    })
+  } else {
+    console.log(colors.consoleGreen, 'eslint通过')
+  }
+})

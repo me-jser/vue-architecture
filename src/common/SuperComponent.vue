@@ -1,6 +1,6 @@
 
 <template>
-
+<div></div>
 </template>
 <script>
 /**
@@ -11,12 +11,12 @@
  */
 
 export default {
-  name: "super-component",
-  data() {
-    return {};
+  name: 'super-component',
+  data () {
+    return {}
   },
   methods: {}
-};
+}
 </script>
 <style>
 </style>
