@@ -12,7 +12,7 @@
     "eslint": "node dev-script/eslint.js",
     "build": "node build/build.js",
     "jsdoc": "node dev-script/build-jsdoc.js",
-    "preinstall": "npm i -g eslint jsdoc commitizen cz-customizable"
+    "preinstall": "npm i -g eslint jsdoc commitizen"
   },
   "dependencies": {
     "axios": "^0.18.0",
