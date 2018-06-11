@@ -12,6 +12,5 @@ export default {
       testData: '234'
     }
   }
-
 }
 </script>
