@@ -12,7 +12,7 @@
     "eslint": "node dev-script/eslint.js",
     "build": "node build/build.js",
     "jsdoc": "node dev-script/build-jsdoc.js",
-    "preinstall": "npm i -g eslint jsdoc commitizen"
+    "preinstall": "sudo npm i -g eslint jsdoc commitizen"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -55,6 +55,7 @@
     "file-loader": "^1.1.4",
     "friendly-errors-webpack-plugin": "^1.6.1",
     "html-webpack-plugin": "^2.30.1",
+    "husky": "^1.0.0-rc.8",
     "inject-loader": "^3.0.0",
     "jsdoc": "^3.5.5",
     "jsdoc-vue": "^1.0.0",
