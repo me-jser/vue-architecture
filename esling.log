@@ -1,0 +1,1246 @@
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/618.vue
+   442:8   error  'rotate' is defined but never used           no-unused-vars
+   614:53  error  Expected '===' and instead saw '=='          eqeqeq
+   622:60  error  Expected '===' and instead saw '=='          eqeqeq
+   716:53  error  Expected '===' and instead saw '=='          eqeqeq
+   724:60  error  Expected '===' and instead saw '=='          eqeqeq
+   845:39  error  Expected '===' and instead saw '=='          eqeqeq
+   869:57  error  Unexpected use of comma operator             no-sequences
+   958:17  error  'second' is assigned a value but never used  no-unused-vars
+   959:23  error  Expected '===' and instead saw '=='          eqeqeq
+   959:40  error  Expected '===' and instead saw '=='          eqeqeq
+   993:25  error  Expected '===' and instead saw '=='          eqeqeq
+   996:32  error  Expected '===' and instead saw '=='          eqeqeq
+   999:32  error  Expected '===' and instead saw '=='          eqeqeq
+  1002:32  error  Expected '===' and instead saw '=='          eqeqeq
+  1005:32  error  Expected '===' and instead saw '=='          eqeqeq
+  1122:11  error  'data' is assigned a value but never used    no-unused-vars
+  1126:11  error  'data' is assigned a value but never used    no-unused-vars
+  1130:11  error  'self' is assigned a value but never used    no-unused-vars
+  1132:27  error  Expected '===' and instead saw '=='          eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/bzhz.vue
+  425:11  error  'slider' is already defined                     no-redeclare
+  426:11  error  'sliderBox' is assigned a value but never used  no-unused-vars
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/commonAct.vue
+  14:5  error  Duplicate key 'importJs'  no-dupe-keys
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/components/JdOneTab.vue
+   6:7  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  19:9  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  32:7  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/dreamPartner.vue
+  172:56  error  Parsing error: missing-whitespace-between-attributes  vue/no-parsing-error
+  173:56  error  Parsing error: missing-whitespace-between-attributes  vue/no-parsing-error
+  231:11  error  'sliderBox' is assigned a value but never used        no-unused-vars
+  242:11  error  Identifier 'sliderBox_2' is not in camel case         camelcase
+  242:11  error  'sliderBox_2' is assigned a value but never used      no-unused-vars
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/enterprise.vue
+  144:32  error  Expected '!==' and instead saw '!='  eqeqeq
+  150:26  error  Expected '===' and instead saw '=='  eqeqeq
+  150:43  error  Expected '===' and instead saw '=='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/ipanti.vue
+  43:61  error  Parsing error: invalid-first-character-of-tag-name  vue/no-parsing-error
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/jdcDreamPartner.vue
+  321:11  error  'sliderBox' is assigned a value but never used  no-unused-vars
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/jdOne.vue
+  207:17  error  Expected '===' and instead saw '=='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/junePre.vue
+  507:53  error  Expected '===' and instead saw '=='                            eqeqeq
+  519:60  error  Expected '===' and instead saw '=='                            eqeqeq
+  679:7   error  Split initialized 'var' declarations into multiple statements  one-var
+  682:43  error  Expected '===' and instead saw '=='                            eqeqeq
+  706:17  error  'second' is assigned a value but never used                    no-unused-vars
+  707:23  error  Expected '===' and instead saw '=='                            eqeqeq
+  707:40  error  Expected '===' and instead saw '=='                            eqeqeq
+  763:57  error  Unexpected use of comma operator                               no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/novice.vue
+  421:7  error  Split initialized 'var' declarations into multiple statements  one-var
+  432:9  error  'throttle' is assigned a value but never used                  no-unused-vars
+  435:9  error  Split initialized 'var' declarations into multiple statements  one-var
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/number1host.vue
+  4:27  error  Parsing error: x-invalid-namespace  vue/no-parsing-error
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/registerOk.vue
+  30:31  error  Expected '===' and instead saw '=='  eqeqeq
+  41:31  error  Expected '===' and instead saw '=='  eqeqeq
+  52:31  error  Expected '===' and instead saw '=='  eqeqeq
+  63:31  error  Expected '===' and instead saw '=='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/shdatacenter.vue
+   14:11  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  300:26  error  Expected '===' and instead saw '=='                           eqeqeq
+  302:33  error  Expected '===' and instead saw '=='                           eqeqeq
+  302:48  error  Expected '===' and instead saw '=='                           eqeqeq
+  309:26  error  Expected '===' and instead saw '=='                           eqeqeq
+  311:33  error  Expected '===' and instead saw '=='                           eqeqeq
+  311:48  error  Expected '===' and instead saw '=='                           eqeqeq
+  355:23  error  Expected '===' and instead saw '=='                           eqeqeq
+  355:40  error  Expected '===' and instead saw '=='                           eqeqeq
+  373:57  error  Unexpected use of comma operator                              no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/sixtopic.vue
+  533:17  error  Expected '===' and instead saw '=='  eqeqeq
+  555:32  error  Expected '===' and instead saw '=='  eqeqeq
+  556:43  error  Expected '===' and instead saw '=='  eqeqeq
+  556:79  error  Expected '===' and instead saw '=='  eqeqeq
+  577:32  error  Expected '===' and instead saw '=='  eqeqeq
+  578:43  error  Expected '===' and instead saw '=='  eqeqeq
+  578:79  error  Expected '===' and instead saw '=='  eqeqeq
+  599:32  error  Expected '===' and instead saw '=='  eqeqeq
+  600:43  error  Expected '===' and instead saw '=='  eqeqeq
+  600:79  error  Expected '===' and instead saw '=='  eqeqeq
+  621:32  error  Expected '===' and instead saw '=='  eqeqeq
+  622:43  error  Expected '===' and instead saw '=='  eqeqeq
+  622:79  error  Expected '===' and instead saw '=='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/skipCloud.vue
+  58:9  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/ssr.vue
+  149:23  error  Elements in iteration expect to have 'v-bind:key' directives     vue/require-v-for-key
+  280:8   error  'rotate' is defined but never used                               no-unused-vars
+  373:26  error  Expected '===' and instead saw '=='                              eqeqeq
+  375:33  error  Expected '===' and instead saw '=='                              eqeqeq
+  375:48  error  Expected '===' and instead saw '=='                              eqeqeq
+  382:26  error  Expected '===' and instead saw '=='                              eqeqeq
+  384:33  error  Expected '===' and instead saw '=='                              eqeqeq
+  384:48  error  Expected '===' and instead saw '=='                              eqeqeq
+  419:7   error  Split initialized 'var' declarations into multiple statements    one-var
+  420:11  error  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  421:43  error  Expected '===' and instead saw '=='                              eqeqeq
+  430:32  error  Expected '!==' and instead saw '!='                              eqeqeq
+  449:51  error  Expected '===' and instead saw '=='                              eqeqeq
+  453:58  error  Expected '===' and instead saw '=='                              eqeqeq
+  530:21  error  Expected '===' and instead saw '=='                              eqeqeq
+  533:28  error  Expected '===' and instead saw '=='                              eqeqeq
+  536:28  error  Expected '===' and instead saw '=='                              eqeqeq
+  539:28  error  Expected '===' and instead saw '=='                              eqeqeq
+  542:28  error  Expected '===' and instead saw '=='                              eqeqeq
+  610:22  error  Expected '===' and instead saw '=='                              eqeqeq
+  612:29  error  Expected '===' and instead saw '=='                              eqeqeq
+  612:60  error  Expected '===' and instead saw '=='                              eqeqeq
+  703:23  error  Expected '===' and instead saw '=='                              eqeqeq
+  703:40  error  Expected '===' and instead saw '=='                              eqeqeq
+  721:57  error  Unexpected use of comma operator                                 no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/ssy.vue
+   34:17  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  284:39  error  Parsing error: missing-semicolon-after-character-reference    vue/no-parsing-error
+  429:8   error  'rotate' is defined but never used                            no-unused-vars
+  459:27  error  Expected '===' and instead saw '=='                           eqeqeq
+  462:27  error  Expected '===' and instead saw '=='                           eqeqeq
+  465:27  error  Expected '===' and instead saw '=='                           eqeqeq
+  468:27  error  Expected '===' and instead saw '=='                           eqeqeq
+  517:26  error  Expected '===' and instead saw '=='                           eqeqeq
+  517:41  error  Expected '===' and instead saw '=='                           eqeqeq
+  524:26  error  Expected '===' and instead saw '=='                           eqeqeq
+  524:41  error  Expected '===' and instead saw '=='                           eqeqeq
+  531:26  error  Expected '===' and instead saw '=='                           eqeqeq
+  531:41  error  Expected '===' and instead saw '=='                           eqeqeq
+  538:26  error  Expected '===' and instead saw '=='                           eqeqeq
+  538:41  error  Expected '===' and instead saw '=='                           eqeqeq
+  568:31  error  Expected '===' and instead saw '=='                           eqeqeq
+  579:31  error  Expected '===' and instead saw '=='                           eqeqeq
+  590:31  error  Expected '===' and instead saw '=='                           eqeqeq
+  601:31  error  Expected '===' and instead saw '=='                           eqeqeq
+  623:51  error  Expected '===' and instead saw '=='                           eqeqeq
+  627:58  error  Expected '===' and instead saw '=='                           eqeqeq
+  726:21  error  Expected '===' and instead saw '=='                           eqeqeq
+  729:28  error  Expected '===' and instead saw '=='                           eqeqeq
+  732:28  error  Expected '===' and instead saw '=='                           eqeqeq
+  735:28  error  Expected '===' and instead saw '=='                           eqeqeq
+  738:28  error  Expected '===' and instead saw '=='                           eqeqeq
+  855:23  error  Expected '===' and instead saw '=='                           eqeqeq
+  875:57  error  Unexpected use of comma operator                              no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/swan.vue
+  209:8  error  'apiUrl' is defined but never used  no-unused-vars
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/swanReg.vue
+   74:10  error  'MessageBox' is defined but never used  no-unused-vars
+   88:19  error  Expected '!==' and instead saw '!='     eqeqeq
+   88:51  error  Expected '===' and instead saw '=='     eqeqeq
+  103:17  error  Expected '!==' and instead saw '!='     eqeqeq
+  103:49  error  Expected '===' and instead saw '=='     eqeqeq
+  204:31  error  Expected '===' and instead saw '=='     eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/activity/upgrade.vue
+  251:32  error  Expected '===' and instead saw '=='  eqeqeq
+  254:24  error  Expected '===' and instead saw '=='  eqeqeq
+  254:41  error  Expected '===' and instead saw '=='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/Cache.vue
+  159:7   error  Type of the default value for 'para' prop must be a function     vue/require-valid-default-prop
+  250:24  error  Expected '===' and instead saw '=='                              eqeqeq
+  278:11  error  Unreachable code                                                 no-unreachable
+  281:11  error  Unreachable code                                                 no-unreachable
+  284:11  error  Unreachable code                                                 no-unreachable
+  287:11  error  Unreachable code                                                 no-unreachable
+  295:11  error  Unreachable code                                                 no-unreachable
+  298:11  error  Unreachable code                                                 no-unreachable
+  301:11  error  Unreachable code                                                 no-unreachable
+  304:11  error  Unreachable code                                                 no-unreachable
+  307:11  error  Unreachable code                                                 no-unreachable
+  310:11  error  Unreachable code                                                 no-unreachable
+  313:11  error  Unreachable code                                                 no-unreachable
+  316:11  error  Unreachable code                                                 no-unreachable
+  319:11  error  Unreachable code                                                 no-unreachable
+  322:11  error  Unreachable code                                                 no-unreachable
+  325:11  error  Unreachable code                                                 no-unreachable
+  328:11  error  Unreachable code                                                 no-unreachable
+  446:19  error  Expected '===' and instead saw '=='                              eqeqeq
+  466:22  error  Expected '===' and instead saw '=='                              eqeqeq
+  556:49  error  Expected '===' and instead saw '=='                              eqeqeq
+  567:56  error  Expected '!==' and instead saw '!='                              eqeqeq
+  582:7   error  Split initialized 'var' declarations into multiple statements    one-var
+  583:11  error  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  584:43  error  Expected '===' and instead saw '=='                              eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/calComponents/flavors.vue
+  149:15  error  'hash' is assigned a value but never used  no-unused-vars
+  159:24  error  Expected '===' and instead saw '=='        eqeqeq
+  159:41  error  Expected '===' and instead saw '=='        eqeqeq
+  161:31  error  Expected '===' and instead saw '=='        eqeqeq
+  163:31  error  Expected '===' and instead saw '=='        eqeqeq
+  165:31  error  Expected '===' and instead saw '=='        eqeqeq
+  185:16  error  Expected '===' and instead saw '=='        eqeqeq
+  195:23  error  Expected '===' and instead saw '=='        eqeqeq
+  206:37  error  Expected '===' and instead saw '=='        eqeqeq
+  218:23  error  Expected '===' and instead saw '=='        eqeqeq
+  228:23  error  Expected '===' and instead saw '=='        eqeqeq
+  236:35  error  Expected '===' and instead saw '=='        eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/calComponents/packages/input/src/calcTextareaHeight.js
+  99:10  error  Expected consistent spacing  standard/object-curly-even-spacing
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/calComponents/src/utils/dom.js
+  6:33  error  Unnecessary escape character: \:  no-useless-escape
+  6:37  error  Unnecessary escape character: \_  no-useless-escape
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/CalLayout.vue
+  652:23  error  Expected '===' and instead saw '=='  eqeqeq
+  652:53  error  Expected '===' and instead saw '=='  eqeqeq
+  665:11  error  Unreachable code                     no-unreachable
+  668:11  error  Unreachable code                     no-unreachable
+  671:11  error  Unreachable code                     no-unreachable
+  674:11  error  Unreachable code                     no-unreachable
+  677:11  error  Unreachable code                     no-unreachable
+  680:11  error  Unreachable code                     no-unreachable
+  687:11  error  Unreachable code                     no-unreachable
+  690:11  error  Unreachable code                     no-unreachable
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/DataBase.vue
+  161:7   error  Type of the default value for 'para' prop must be a function     vue/require-valid-default-prop
+  286:11  error  Unreachable code                                                 no-unreachable
+  289:11  error  Unreachable code                                                 no-unreachable
+  292:11  error  Unreachable code                                                 no-unreachable
+  295:11  error  Unreachable code                                                 no-unreachable
+  303:11  error  Unreachable code                                                 no-unreachable
+  306:11  error  Unreachable code                                                 no-unreachable
+  309:11  error  Unreachable code                                                 no-unreachable
+  312:11  error  Unreachable code                                                 no-unreachable
+  315:11  error  Unreachable code                                                 no-unreachable
+  318:11  error  Unreachable code                                                 no-unreachable
+  321:11  error  Unreachable code                                                 no-unreachable
+  324:11  error  Unreachable code                                                 no-unreachable
+  327:11  error  Unreachable code                                                 no-unreachable
+  330:11  error  Unreachable code                                                 no-unreachable
+  333:11  error  Unreachable code                                                 no-unreachable
+  336:11  error  Unreachable code                                                 no-unreachable
+  492:18  error  Expected '===' and instead saw '=='                              eqeqeq
+  554:49  error  Expected '===' and instead saw '=='                              eqeqeq
+  565:56  error  Expected '!==' and instead saw '!='                              eqeqeq
+  580:7   error  Split initialized 'var' declarations into multiple statements    one-var
+  581:11  error  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  582:43  error  Expected '===' and instead saw '=='                              eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/Disk.vue
+  152:7   error  Type of the default value for 'para' prop must be a function     vue/require-valid-default-prop
+  265:11  error  Unreachable code                                                 no-unreachable
+  268:11  error  Unreachable code                                                 no-unreachable
+  271:11  error  Unreachable code                                                 no-unreachable
+  274:11  error  Unreachable code                                                 no-unreachable
+  282:11  error  Unreachable code                                                 no-unreachable
+  285:11  error  Unreachable code                                                 no-unreachable
+  288:11  error  Unreachable code                                                 no-unreachable
+  291:11  error  Unreachable code                                                 no-unreachable
+  294:11  error  Unreachable code                                                 no-unreachable
+  297:11  error  Unreachable code                                                 no-unreachable
+  300:11  error  Unreachable code                                                 no-unreachable
+  303:11  error  Unreachable code                                                 no-unreachable
+  306:11  error  Unreachable code                                                 no-unreachable
+  309:11  error  Unreachable code                                                 no-unreachable
+  312:11  error  Unreachable code                                                 no-unreachable
+  315:11  error  Unreachable code                                                 no-unreachable
+  503:49  error  Expected '===' and instead saw '=='                              eqeqeq
+  514:56  error  Expected '!==' and instead saw '!='                              eqeqeq
+  529:7   error  Split initialized 'var' declarations into multiple statements    one-var
+  530:11  error  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  531:43  error  Expected '===' and instead saw '=='                              eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/Host.vue
+   97:17  error  Elements in iteration expect to have 'v-bind:key' directives     vue/require-v-for-key
+  274:7   error  Type of the default value for 'para' prop must be a function     vue/require-valid-default-prop
+  340:9   error  'flavorsParams' is assigned a value but never used               no-unused-vars
+  429:29  error  Expected '===' and instead saw '=='                              eqeqeq
+  478:27  error  Expected '===' and instead saw '=='                              eqeqeq
+  478:62  error  Expected '===' and instead saw '=='                              eqeqeq
+  481:34  error  Expected '===' and instead saw '=='                              eqeqeq
+  504:11  error  Unreachable code                                                 no-unreachable
+  507:11  error  Unreachable code                                                 no-unreachable
+  510:11  error  Unreachable code                                                 no-unreachable
+  513:11  error  Unreachable code                                                 no-unreachable
+  521:11  error  Unreachable code                                                 no-unreachable
+  524:11  error  Unreachable code                                                 no-unreachable
+  532:11  error  Unreachable code                                                 no-unreachable
+  535:11  error  Unreachable code                                                 no-unreachable
+  538:11  error  Unreachable code                                                 no-unreachable
+  541:11  error  Unreachable code                                                 no-unreachable
+  544:11  error  Unreachable code                                                 no-unreachable
+  547:11  error  Unreachable code                                                 no-unreachable
+  550:11  error  Unreachable code                                                 no-unreachable
+  553:11  error  Unreachable code                                                 no-unreachable
+  556:11  error  Unreachable code                                                 no-unreachable
+  559:11  error  Unreachable code                                                 no-unreachable
+  562:11  error  Unreachable code                                                 no-unreachable
+  565:11  error  Unreachable code                                                 no-unreachable
+  697:19  error  Expected '===' and instead saw '=='                              eqeqeq
+  717:27  error  Expected '===' and instead saw '=='                              eqeqeq
+  781:29  error  Expected '===' and instead saw '=='                              eqeqeq
+  800:9   error  Return statement should not contain assignment                   no-return-assign
+  802:9   error  Return statement should not contain assignment                   no-return-assign
+  804:22  error  Expected '!==' and instead saw '!='                              eqeqeq
+  805:9   error  Return statement should not contain assignment                   no-return-assign
+  815:20  error  Expected '===' and instead saw '=='                              eqeqeq
+  847:27  error  Expected '===' and instead saw '=='                              eqeqeq
+  849:34  error  Expected '===' and instead saw '=='                              eqeqeq
+  918:49  error  Expected '===' and instead saw '=='                              eqeqeq
+  929:56  error  Expected '!==' and instead saw '!='                              eqeqeq
+  944:7   error  Split initialized 'var' declarations into multiple statements    one-var
+  945:11  error  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  946:43  error  Expected '===' and instead saw '=='                              eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/Load.vue
+  143:7   error  Type of the default value for 'para' prop must be a function  vue/require-valid-default-prop
+  158:21  error  Expected consistent spacing                                   standard/object-curly-even-spacing
+  171:27  error  Expected '===' and instead saw '=='                           eqeqeq
+  174:34  error  Expected '===' and instead saw '=='                           eqeqeq
+  271:11  error  Unreachable code                                              no-unreachable
+  274:11  error  Unreachable code                                              no-unreachable
+  277:11  error  Unreachable code                                              no-unreachable
+  280:11  error  Unreachable code                                              no-unreachable
+  288:11  error  Unreachable code                                              no-unreachable
+  291:11  error  Unreachable code                                              no-unreachable
+  299:11  error  Unreachable code                                              no-unreachable
+  302:11  error  Unreachable code                                              no-unreachable
+  305:11  error  Unreachable code                                              no-unreachable
+  308:11  error  Unreachable code                                              no-unreachable
+  311:11  error  Unreachable code                                              no-unreachable
+  314:11  error  Unreachable code                                              no-unreachable
+  317:11  error  Unreachable code                                              no-unreachable
+  320:11  error  Unreachable code                                              no-unreachable
+  323:11  error  Unreachable code                                              no-unreachable
+  326:11  error  Unreachable code                                              no-unreachable
+  329:11  error  Unreachable code                                              no-unreachable
+  402:19  error  Expected '===' and instead saw '=='                           eqeqeq
+  443:27  error  Expected '===' and instead saw '=='                           eqeqeq
+  445:34  error  Expected '===' and instead saw '=='                           eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/calculator/SqlServer.vue
+  169:7   error  Type of the default value for 'para' prop must be a function     vue/require-valid-default-prop
+  297:11  error  Unreachable code                                                 no-unreachable
+  300:11  error  Unreachable code                                                 no-unreachable
+  303:11  error  Unreachable code                                                 no-unreachable
+  306:11  error  Unreachable code                                                 no-unreachable
+  314:11  error  Unreachable code                                                 no-unreachable
+  317:11  error  Unreachable code                                                 no-unreachable
+  320:11  error  Unreachable code                                                 no-unreachable
+  323:11  error  Unreachable code                                                 no-unreachable
+  326:11  error  Unreachable code                                                 no-unreachable
+  329:11  error  Unreachable code                                                 no-unreachable
+  332:11  error  Unreachable code                                                 no-unreachable
+  335:11  error  Unreachable code                                                 no-unreachable
+  338:11  error  Unreachable code                                                 no-unreachable
+  341:11  error  Unreachable code                                                 no-unreachable
+  344:11  error  Unreachable code                                                 no-unreachable
+  347:11  error  Unreachable code                                                 no-unreachable
+  503:18  error  Expected '===' and instead saw '=='                              eqeqeq
+  565:49  error  Expected '===' and instead saw '=='                              eqeqeq
+  576:56  error  Expected '!==' and instead saw '!='                              eqeqeq
+  591:7   error  Split initialized 'var' declarations into multiple statements    one-var
+  592:11  error  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  593:43  error  Expected '===' and instead saw '=='                              eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/case/caseDetail.vue
+  26:31  error  '<template>' cannot be keyed. Place the key on real elements instead  vue/no-template-key
+  27:33  error  Elements in iteration expect to have 'v-bind:key' directives          vue/require-v-for-key
+  92:35  error  Expected '===' and instead saw '=='                                   eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/case/caseList.vue
+  26:23  error  '<template>' cannot be keyed. Place the key on real elements instead  vue/no-template-key
+  27:25  error  Elements in iteration expect to have 'v-bind:key' directives          vue/require-v-for-key
+  40:37  error  '<template>' cannot be keyed. Place the key on real elements instead  vue/no-template-key
+  41:37  error  Elements in iteration expect to have 'v-bind:key' directives          vue/require-v-for-key
+  93:35  error  Expected '===' and instead saw '=='                                   eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/404.vue
+  34:23  error  Expected '===' and instead saw '=='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/Banner.vue
+   5:9  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  24:7  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/BannerToplink.vue
+   6:11  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  24:9   error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  36:11  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  65:8   error  Expected error to be handled                                  handle-callback-err
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/Floor_backup.vue
+    4:5   error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   14:16  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   21:24  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   35:30  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   36:30  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   37:30  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   51:16  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   95:22  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   95:22  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  128:16  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  138:24  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  193:16  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  193:37  error  'index' is defined but never used                             vue/no-unused-vars
+  204:11  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  204:11  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  204:67  error  'index' is defined but never used                             vue/no-unused-vars
+  255:15  error  'sliderBox' is assigned a value but never used                no-unused-vars
+  269:15  error  Identifier 'map_position' is not in camel case                camelcase
+  272:30  error  Identifier 'map_position' is not in camel case                camelcase
+  273:19  error  Identifier 'bezier_params' is not in camel case               camelcase
+  287:19  error  Identifier 'bezier_params2' is not in camel case              camelcase
+  301:19  error  Identifier 'bezier_params3' is not in camel case              camelcase
+  315:19  error  Identifier 'bezier_params4' is not in camel case              camelcase
+  330:73  error  A constructor name should not start with a lowercase letter   new-cap
+  331:74  error  A constructor name should not start with a lowercase letter   new-cap
+  332:74  error  A constructor name should not start with a lowercase letter   new-cap
+  333:74  error  A constructor name should not start with a lowercase letter   new-cap
+  334:19  error  'timer' is assigned a value but never used                    no-unused-vars
+  335:75  error  A constructor name should not start with a lowercase letter   new-cap
+  336:76  error  A constructor name should not start with a lowercase letter   new-cap
+  337:76  error  A constructor name should not start with a lowercase letter   new-cap
+  338:76  error  A constructor name should not start with a lowercase letter   new-cap
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/Floor.vue
+     6:7   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+    10:11  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+    25:19  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+    39:19  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+    39:55  error  'index' is defined but never used                              vue/no-unused-vars
+    66:7   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+    80:17  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   107:9   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   107:9   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   107:65  error  'index' is defined but never used                              vue/no-unused-vars
+   116:7   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   129:15  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   132:21  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   145:21  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   146:23  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   146:67  error  'proIndex' is defined but never used                           vue/no-unused-vars
+   166:7   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   188:21  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   213:25  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   225:17  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   225:54  error  'index' is defined but never used                              vue/no-unused-vars
+   236:23  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   246:17  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   433:17  error  'slider' is already defined                                    no-redeclare
+   627:9   error  Split initialized 'var' declarations into multiple statements  one-var
+   734:15  error  'pageProgress' is assigned a value but never used              no-unused-vars
+   735:15  error  'currentPage' is assigned a value but never used               no-unused-vars
+   787:24  error  Expected '!==' and instead saw '!='                            eqeqeq
+   919:15  error  'combinedGeometry' is assigned a value but never used          no-unused-vars
+   929:48  error  Expected '===' and instead saw '=='                            eqeqeq
+  1003:11  error  'users' is assigned a value but never used                     no-unused-vars
+  1030:13  error  Unexpected literal in error position of callback               standard/no-callback-literal
+  1070:32  error  Expected '!==' and instead saw '!='                            eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/jdcBannerToplink.vue
+    5:9   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   60:9   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   79:11  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   79:55  error  'index' is defined but never used                              vue/no-unused-vars
+  191:17  error  Expected '===' and instead saw '=='                            eqeqeq
+  202:9   error  Split initialized 'var' declarations into multiple statements  one-var
+  248:8   error  Expected error to be handled                                   handle-callback-err
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/jdcFloor.vue
+    5:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   12:13  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   22:17  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   46:13  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   57:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   65:15  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  101:15  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  119:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  130:17  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  131:19  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  132:41  error  'index' is defined but never used                                      vue/no-unused-vars
+  144:25  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  158:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  166:15  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  192:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  200:15  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  227:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  235:15  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  235:51  error  'index' is defined but never used                                      vue/no-unused-vars
+  245:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  253:15  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  268:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  269:9   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  316:32  error  Expected '===' and instead saw '=='                                    eqeqeq
+  374:13  error  'sliderBox' is assigned a value but never used                         no-unused-vars
+  395:64  error  Expected '===' and instead saw '=='                                    eqeqeq
+  408:15  error  'parent' is assigned a value but never used                            no-unused-vars
+  425:9   error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  425:12  error  Unexpected use of comma operator                                       no-sequences
+  431:9   error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  431:12  error  Unexpected use of comma operator                                       no-sequences
+  436:7   error  Split initialized 'var' declarations into multiple statements          one-var
+  439:9   error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  439:32  error  Unexpected use of comma operator                                       no-sequences
+  442:9   error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  442:32  error  Unexpected use of comma operator                                       no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/Notice.vue
+  5:9  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/Toplink_backup.vue
+   5:9  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  29:8  error  Expected error to be handled                                  handle-callback-err
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/floor/Toplink.vue
+   5:9   error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  27:36  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  28:24  error  Expected '===' and instead saw '=='                           eqeqeq
+  31:22  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  32:8   error  Expected error to be handled                                  handle-callback-err
+  45:14  error  Unexpected side effect in "topLinkFilter" computed property   vue/no-side-effects-in-computed-properties
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/footer/FooterLink.vue
+  4:7  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  5:7  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/footer/FooterMenu.vue
+   6:13  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   8:17  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  35:34  error  'index' is defined but never used                             vue/no-unused-vars
+  36:9   error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  40:21  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  59:7   error  Expected error to be handled                                  handle-callback-err
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/footer/FooterOperation.vue
+   4:7   error  Elements in iteration expect to have 'v-bind:key' directives    vue/require-v-for-key
+  23:24  error  Expected '===' and instead saw '=='                             eqeqeq
+  27:8   error  Expected error to be handled                                    handle-callback-err
+  33:14  error  Unexpected side effect in "bottomLinkFilter" computed property  vue/no-side-effects-in-computed-properties
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/Header.vue
+   17:13  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   23:21  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   26:54  error  'ind' is defined but never used                                                                           vue/no-unused-vars
+   28:27  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   37:27  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   53:13  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   58:19  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   58:41  error  'ind' is defined but never used                                                                           vue/no-unused-vars
+   60:52  error  'ind' is defined but never used                                                                           vue/no-unused-vars
+   62:25  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   70:25  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   84:13  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   92:23  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+   92:45  error  'ind' is defined but never used                                                                           vue/no-unused-vars
+  111:13  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+  117:21  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+  120:54  error  'ind' is defined but never used                                                                           vue/no-unused-vars
+  122:27  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+  131:27  error  Custom elements in iteration require 'v-bind:key' directives                                              vue/valid-v-for
+  147:13  error  Elements in iteration expect to have 'v-bind:key' directives                                              vue/require-v-for-key
+  147:17  error  'v-else-if' directives require being preceded by the element which has a 'v-if' or 'v-else-if' directive  vue/valid-v-else-if
+  243:7   error  Keys starting with with '_' are reserved in '_industry' group                                             vue/no-reserved-keys
+  271:9   error  Identifier '_account_name' is not in camel case                                                           camelcase
+  286:32  error  Expected '!==' and instead saw '!='                                                                       eqeqeq
+  303:37  error  Identifier '_account_name' is not in camel case                                                           camelcase
+  309:37  error  Expected '===' and instead saw '=='                                                                       eqeqeq
+  309:67  error  Expected '===' and instead saw '=='                                                                       eqeqeq
+  368:11  error  Unreachable code                                                                                          no-unreachable
+  371:11  error  Unreachable code                                                                                          no-unreachable
+  374:11  error  Unreachable code                                                                                          no-unreachable
+  377:11  error  Unreachable code                                                                                          no-unreachable
+  380:11  error  Unreachable code                                                                                          no-unreachable
+  382:11  error  Expected an assignment or function call and instead saw an expression                                     no-unused-expressions
+  395:11  error  Unreachable code                                                                                          no-unreachable
+  398:11  error  Unreachable code                                                                                          no-unreachable
+  401:11  error  Unreachable code                                                                                          no-unreachable
+  404:11  error  Unreachable code                                                                                          no-unreachable
+  407:11  error  Unreachable code                                                                                          no-unreachable
+  409:11  error  Expected an assignment or function call and instead saw an expression                                     no-unused-expressions
+  413:7   error  Split initialized 'var' declarations into multiple statements                                             one-var
+  416:43  error  Expected '===' and instead saw '=='                                                                       eqeqeq
+  447:37  error  Expected '!==' and instead saw '!='                                                                       eqeqeq
+  455:46  error  Expected '!==' and instead saw '!='                                                                       eqeqeq
+  459:40  error  Expected '===' and instead saw '=='                                                                       eqeqeq
+  463:40  error  Expected '===' and instead saw '=='                                                                       eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/common/right/rightBar.vue
+  205:3   error  'getFileName' is defined but never used                        no-unused-vars
+  283:17  error  Expected '===' and instead saw '=='                            eqeqeq
+  290:19  error  Expected '===' and instead saw '=='                            eqeqeq
+  294:19  error  Expected '===' and instead saw '=='                            eqeqeq
+  294:50  error  Unnecessary escape character: \-                               no-useless-escape
+  294:62  error  Unnecessary escape character: \-                               no-useless-escape
+  308:7   error  Split initialized 'var' declarations into multiple statements  one-var
+  339:26  error  Expected '===' and instead saw '=='                            eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/coupon/getCoupon.vue
+  21:8   error  'maps' is defined but never used     no-unused-vars
+  44:24  error  Expected '===' and instead saw '=='  eqeqeq
+  57:40  error  Expected '!==' and instead saw '!='  eqeqeq
+  57:77  error  Expected '!==' and instead saw '!='  eqeqeq
+  69:23  error  Expected '===' and instead saw '=='  eqeqeq
+  79:30  error  Expected '!==' and instead saw '!='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/datacenter/datacenter.vue
+  592:32  error  Expected '!==' and instead saw '!='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/help/detailContent.vue
+   10:9   error  Elements in iteration expect to have 'v-bind:key' directives     vue/require-v-for-key
+   19:15  error  Elements in iteration expect to have 'v-bind:key' directives     vue/require-v-for-key
+   28:21  error  Elements in iteration expect to have 'v-bind:key' directives     vue/require-v-for-key
+  129:7   error  Keys starting with with '_' are reserved in '_loopFirId' group   vue/no-reserved-keys
+  130:7   error  Keys starting with with '_' are reserved in '_aloneFirId' group  vue/no-reserved-keys
+  137:22  error  Expected '===' and instead saw '=='                              eqeqeq
+  141:22  error  Unnecessary escape character: \'                                 no-useless-escape
+  142:22  error  Unnecessary escape character: \"                                 no-useless-escape
+  150:22  error  Expected '===' and instead saw '=='                              eqeqeq
+  155:32  error  Unnecessary escape character: \'                                 no-useless-escape
+  161:32  error  Expected '===' and instead saw '=='                              eqeqeq
+  168:28  error  Expected '===' and instead saw '=='                              eqeqeq
+  189:31  error  Expected '!==' and instead saw '!='                              eqeqeq
+  236:17  error  '_self' is assigned a value but never used                       no-unused-vars
+  259:38  error  Expected '===' and instead saw '=='                              eqeqeq
+  276:61  error  Expected '===' and instead saw '=='                              eqeqeq
+  302:11  error  '_self' is already defined                                       no-redeclare
+  321:27  error  Expected '===' and instead saw '=='                              eqeqeq
+  326:37  error  Expected '===' and instead saw '=='                              eqeqeq
+  334:24  error  'k' is already defined                                           no-redeclare
+  334:31  error  'ken' is already defined                                         no-redeclare
+  336:31  error  Expected '===' and instead saw '=='                              eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/help/detailMenu.vue
+   17:15  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   17:15  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   21:19  error  Custom elements in iteration require 'v-bind:key' directives   vue/valid-v-for
+   49:8   error  'apiUrl' is defined but never used                             no-unused-vars
+   79:25  error  Expected '===' and instead saw '=='                            eqeqeq
+   81:32  error  Expected '===' and instead saw '=='                            eqeqeq
+  112:18  error  Expected '===' and instead saw '=='                            eqeqeq
+  120:7   error  Split initialized 'var' declarations into multiple statements  one-var
+  121:9   error  Identifier 'water_li' is not in camel case                     camelcase
+  122:9   error  Identifier 'water_li_w' is not in camel case                   camelcase
+  123:9   error  Identifier 'a_height' is not in camel case                     camelcase
+  123:20  error  The array literal notation [] is preferable                    no-array-constructor
+  124:9   error  Identifier 'line_num' is not in camel case                     camelcase
+  125:9   error  Identifier 'max_key' is not in camel case                      camelcase
+  125:18  error  Identifier 'min_key' is not in camel case                      camelcase
+  125:27  error  Identifier 'ul_height' is not in camel case                    camelcase
+  125:27  error  'ul_height' is assigned a value but never used                 no-unused-vars
+  130:17  error  Identifier 'line_num' is not in camel case                     camelcase
+  134:24  error  Identifier 'water_li_w' is not in camel case                   camelcase
+  136:11  error  Identifier 'max_key' is not in camel case                      camelcase
+  137:11  error  Identifier 'ul_height' is not in camel case                    camelcase
+  139:11  error  Identifier 'min_key' is not in camel case                      camelcase
+  142:19  error  Identifier 'min_key' is not in camel case                      camelcase
+  142:30  error  Identifier 'water_li_w' is not in camel case                   camelcase
+  145:11  error  Identifier 'max_key' is not in camel case                      camelcase
+  146:11  error  Identifier 'ul_height' is not in camel case                    camelcase
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/help/faq.vue
+   17:60  error  Duplicate attribute 'clstag'                                           vue/no-duplicate-attributes
+   23:17  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   29:15  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   40:13  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   51:7   error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   58:35  error  'topIndex' is defined but never used                                   vue/no-unused-vars
+   59:19  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   59:19  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   60:47  error  'listIndex' is defined but never used                                  vue/no-unused-vars
+   64:25  error  Custom elements in iteration require 'v-bind:key' directives           vue/valid-v-for
+   87:45  error  'listIndex' is defined but never used                                  vue/no-unused-vars
+   89:13  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  103:19  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  118:13  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  189:13  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  192:17  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  197:15  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  202:21  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  211:19  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  212:48  error  'indexStepList' is defined but never used                              vue/no-unused-vars
+  213:23  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  238:19  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  289:19  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  289:19  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+  290:47  error  'listIndex' is defined but never used                                  vue/no-unused-vars
+  294:25  error  Custom elements in iteration require 'v-bind:key' directives           vue/valid-v-for
+  365:11  error  Unreachable code                                                       no-unreachable
+  368:11  error  Unreachable code                                                       no-unreachable
+  371:11  error  Unreachable code                                                       no-unreachable
+  374:11  error  Unreachable code                                                       no-unreachable
+  377:11  error  Unreachable code                                                       no-unreachable
+  379:11  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  396:25  error  Expected '===' and instead saw '=='                                    eqeqeq
+  403:11  error  Unreachable code                                                       no-unreachable
+  406:11  error  Unreachable code                                                       no-unreachable
+  409:11  error  Unreachable code                                                       no-unreachable
+  412:11  error  Unreachable code                                                       no-unreachable
+  415:11  error  Unreachable code                                                       no-unreachable
+  417:11  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  423:18  error  Expected '===' and instead saw '=='                                    eqeqeq
+  432:7   error  Split initialized 'var' declarations into multiple statements          one-var
+  433:9   error  Identifier 'water_li' is not in camel case                             camelcase
+  434:9   error  Identifier 'water_li_w' is not in camel case                           camelcase
+  435:9   error  Identifier 'a_height' is not in camel case                             camelcase
+  435:20  error  The array literal notation [] is preferable                            no-array-constructor
+  436:9   error  Identifier 'line_num' is not in camel case                             camelcase
+  437:9   error  Identifier 'max_key' is not in camel case                              camelcase
+  437:18  error  Identifier 'min_key' is not in camel case                              camelcase
+  437:27  error  Identifier 'ul_height' is not in camel case                            camelcase
+  440:17  error  Identifier 'line_num' is not in camel case                             camelcase
+  444:24  error  Identifier 'water_li_w' is not in camel case                           camelcase
+  446:11  error  Identifier 'max_key' is not in camel case                              camelcase
+  447:11  error  Identifier 'ul_height' is not in camel case                            camelcase
+  449:11  error  Identifier 'min_key' is not in camel case                              camelcase
+  452:19  error  Identifier 'min_key' is not in camel case                              camelcase
+  452:30  error  Identifier 'water_li_w' is not in camel case                           camelcase
+  455:11  error  Identifier 'max_key' is not in camel case                              camelcase
+  456:11  error  Identifier 'ul_height' is not in camel case                            camelcase
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/help/searchInfo.vue
+   29:9   error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   29:26  error  'ind' is defined but never used                               vue/no-unused-vars
+  107:8   error  'fun' is defined but never used                               no-unused-vars
+  138:25  error  Expected consistent spacing                                   standard/object-curly-even-spacing
+  176:36  error  Expected '===' and instead saw '=='                           eqeqeq
+  179:69  error  Expected '===' and instead saw '=='                           eqeqeq
+  182:43  error  Expected '===' and instead saw '=='                           eqeqeq
+  182:79  error  Expected '===' and instead saw '=='                           eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/jdccase/caseDetail.vue
+  117:35  error  Expected '===' and instead saw '=='  eqeqeq
+  154:39  error  Expected '===' and instead saw '=='  eqeqeq
+  154:44  error  Unexpected mix of '&&' and '||'      no-mixed-operators
+  154:63  error  Unexpected mix of '&&' and '||'      no-mixed-operators
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/jdccase/caseList.vue
+   89:35  error  Expected '===' and instead saw '=='  eqeqeq
+  121:40  error  Expected '===' and instead saw '=='  eqeqeq
+  121:45  error  Unexpected mix of '&&' and '||'      no-mixed-operators
+  121:64  error  Unexpected mix of '&&' and '||'      no-mixed-operators
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/jdcnews/journalMay.vue
+  174:47  error  Irregular whitespace not allowed  no-irregular-whitespace
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/jdcnews/newsDetail.vue
+   37:17  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   37:44  error  'index' is defined but never used                             vue/no-unused-vars
+   76:48  error  Expected '===' and instead saw '=='                           eqeqeq
+   76:72  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+   76:96  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+   88:27  error  Expected '===' and instead saw '=='                           eqeqeq
+  105:27  error  Expected '===' and instead saw '=='                           eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/jdcnews/newsList.vue
+   30:25  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   62:25  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  132:46  error  Expected '===' and instead saw '=='                           eqeqeq
+  132:70  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  132:94  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  148:42  error  Expected '===' and instead saw '=='                           eqeqeq
+  148:66  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  148:90  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/jdcnews/subscription.vue
+   88:17  error  Expected '!==' and instead saw '!='  eqeqeq
+   88:49  error  Expected '===' and instead saw '=='  eqeqeq
+  102:17  error  Expected '!==' and instead saw '!='  eqeqeq
+  102:49  error  Expected '===' and instead saw '=='  eqeqeq
+  303:35  error  Expected '===' and instead saw '=='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/jdcnews/treatment.vue
+   81:17  error  Expected '!==' and instead saw '!='  eqeqeq
+   81:49  error  Expected '===' and instead saw '=='  eqeqeq
+   95:17  error  Expected '!==' and instead saw '!='  eqeqeq
+   95:49  error  Expected '===' and instead saw '=='  eqeqeq
+  296:35  error  Expected '===' and instead saw '=='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/jdProducts/productsList.vue
+   11:17  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   15:25  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   21:13  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   21:58  error  'index' is defined but never used                                      vue/no-unused-vars
+   24:21  error  Elements in iteration expect to have 'v-bind:key' directives           vue/require-v-for-key
+   54:11  error  Unreachable code                                                       no-unreachable
+   57:11  error  Unreachable code                                                       no-unreachable
+   60:11  error  Unreachable code                                                       no-unreachable
+   63:11  error  Unreachable code                                                       no-unreachable
+   66:11  error  Unreachable code                                                       no-unreachable
+   67:17  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  115:37  error  Expected '!==' and instead saw '!='                                    eqeqeq
+  125:11  error  Unreachable code                                                       no-unreachable
+  128:11  error  Unreachable code                                                       no-unreachable
+  131:11  error  Unreachable code                                                       no-unreachable
+  134:11  error  Unreachable code                                                       no-unreachable
+  137:11  error  Unreachable code                                                       no-unreachable
+  139:11  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/news/newsHot.vue
+  10:19  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  18:19  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/news/newsList.vue
+  9:7   error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  9:61  error  'index' is defined but never used                             vue/no-unused-vars
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/notice/noticeDetail.vue
+   77:30  error  Expected '!==' and instead saw '!='  eqeqeq
+  103:22  error  Expected '===' and instead saw '=='  eqeqeq
+  107:22  error  Unnecessary escape character: \'     no-useless-escape
+  108:22  error  Unnecessary escape character: \"     no-useless-escape
+  116:22  error  Expected '===' and instead saw '=='  eqeqeq
+  121:32  error  Unnecessary escape character: \'     no-useless-escape
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/notice/noticeList.vue
+   5:9  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  12:9  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/partner/partnerBasic.vue
+   19:13  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   34:13  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   34:49  error  'index' is defined but never used                             vue/no-unused-vars
+   87:13  error  'elevator' is already defined                                 no-redeclare
+  111:42  error  Expected '===' and instead saw '=='                           eqeqeq
+  111:47  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  111:71  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  112:41  error  Expected '===' and instead saw '=='                           eqeqeq
+  112:46  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  112:71  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  130:37  error  Expected '===' and instead saw '=='                           eqeqeq
+  130:42  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  130:61  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/partner/partnerIndex.vue
+  103:15  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  151:15  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  151:51  error  'index' is defined but never used                             vue/no-unused-vars
+  219:37  error  Expected '===' and instead saw '=='                           eqeqeq
+  219:42  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  219:61  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  232:40  error  Expected '===' and instead saw '=='                           eqeqeq
+  232:45  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  232:69  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/partner/partnerReg.vue
+   74:10  error  'MessageBox' is defined but never used  no-unused-vars
+   88:19  error  Expected '!==' and instead saw '!='     eqeqeq
+   88:51  error  Expected '===' and instead saw '=='     eqeqeq
+  103:17  error  Expected '!==' and instead saw '!='     eqeqeq
+  103:49  error  Expected '===' and instead saw '=='     eqeqeq
+  205:31  error  Expected '===' and instead saw '=='     eqeqeq
+  217:14  error  Expected error to be handled            handle-callback-err
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/passport/login.vue
+   86:15   error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+  271:3    error  Parsing error: x-invalid-end-tag                               vue/no-parsing-error
+  295:35   error  Expected '===' and instead saw '=='                            eqeqeq
+  301:13   error  Expected error to be handled                                   handle-callback-err
+  319:11   error  Identifier 'reg_special' is not in camel case                  camelcase
+  320:38   error  Expected '===' and instead saw '=='                            eqeqeq
+  322:22   error  Expected '!==' and instead saw '!='                            eqeqeq
+  322:54   error  Expected '===' and instead saw '=='                            eqeqeq
+  324:18   error  Identifier 'reg_special' is not in camel case                  camelcase
+  324:30   error  Expected '!==' and instead saw '!='                            eqeqeq
+  324:70   error  Expected '!==' and instead saw '!='                            eqeqeq
+  338:27   error  Expected '===' and instead saw '=='                            eqeqeq
+  354:33   error  Expected '===' and instead saw '=='                            eqeqeq
+  355:37   error  Expected '===' and instead saw '=='                            eqeqeq
+  374:38   error  Expected '===' and instead saw '=='                            eqeqeq
+  378:17   error  Expected '!==' and instead saw '!='                            eqeqeq
+  378:49   error  Expected '===' and instead saw '=='                            eqeqeq
+  389:33   error  Expected '===' and instead saw '=='                            eqeqeq
+  390:37   error  Expected '===' and instead saw '=='                            eqeqeq
+  648:24   error  Unexpected constant condition                                  no-constant-condition
+  648:35   error  Expected '===' and instead saw '=='                            eqeqeq
+  648:46   error  Expected '===' and instead saw '=='                            eqeqeq
+  648:58   error  Expected '===' and instead saw '=='                            eqeqeq
+  652:37   error  Expected '===' and instead saw '=='                            eqeqeq
+  687:26   error  Expected '===' and instead saw '=='                            eqeqeq
+  690:30   error  'timer' was used before it was defined                         no-use-before-define
+  696:9    error  Move function declaration to function body root                no-inner-declarations
+  707:32   error  Expected '===' and instead saw '=='                            eqeqeq
+  707:58   error  Expected '===' and instead saw '=='                            eqeqeq
+  721:33   error  Expected '===' and instead saw '=='                            eqeqeq
+  743:26   error  Expected '===' and instead saw '=='                            eqeqeq
+  743:52   error  Expected '===' and instead saw '=='                            eqeqeq
+  771:35   error  Expected '===' and instead saw '=='                            eqeqeq
+  775:51   error  Expected '===' and instead saw '=='                            eqeqeq
+  803:7    error  Split initialized 'var' declarations into multiple statements  one-var
+  806:43   error  Expected '===' and instead saw '=='                            eqeqeq
+  816:11   error  '_open' is assigned a value but never used                     no-unused-vars
+  826:27   error  Expected '===' and instead saw '=='                            eqeqeq
+  829:41   error  Expected '===' and instead saw '=='                            eqeqeq
+  830:41   error  Expected '===' and instead saw '=='                            eqeqeq
+  837:44   error  Expected '===' and instead saw '=='                            eqeqeq
+  847:118  error  Expected '!==' and instead saw '!='                            eqeqeq
+  852:68   error  Unexpected mix of '&&' and '||'                                no-mixed-operators
+  852:109  error  Unexpected mix of '&&' and '||'                                no-mixed-operators
+  863:34   error  Expected '===' and instead saw '=='                            eqeqeq
+  870:34   error  Expected '===' and instead saw '=='                            eqeqeq
+  886:60   error  Expected '===' and instead saw '=='                            eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/passport/regist.vue
+   78:15   error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  104:3    error  Parsing error: x-invalid-end-tag                              vue/no-parsing-error
+  125:31   error  Expected '===' and instead saw '=='                           eqeqeq
+  130:12   error  Expected error to be handled                                  handle-callback-err
+  144:15   error  Expected '!==' and instead saw '!='                           eqeqeq
+  144:47   error  Expected '===' and instead saw '=='                           eqeqeq
+  148:63   error  Expected '!==' and instead saw '!='                           eqeqeq
+  163:32   error  Expected '!==' and instead saw '!='                           eqeqeq
+  176:17   error  Expected '!==' and instead saw '!='                           eqeqeq
+  176:49   error  Expected '===' and instead saw '=='                           eqeqeq
+  185:31   error  Expected '===' and instead saw '=='                           eqeqeq
+  186:35   error  Expected '===' and instead saw '=='                           eqeqeq
+  364:24   error  Unexpected constant condition                                 no-constant-condition
+  364:35   error  Expected '===' and instead saw '=='                           eqeqeq
+  364:47   error  Expected '===' and instead saw '=='                           eqeqeq
+  364:59   error  Expected '===' and instead saw '=='                           eqeqeq
+  368:37   error  Expected '===' and instead saw '=='                           eqeqeq
+  384:26   error  Expected '===' and instead saw '=='                           eqeqeq
+  387:30   error  'timer' was used before it was defined                        no-use-before-define
+  393:9    error  Move function declaration to function body root               no-inner-declarations
+  404:32   error  Expected '===' and instead saw '=='                           eqeqeq
+  404:58   error  Expected '===' and instead saw '=='                           eqeqeq
+  416:29   error  Expected '===' and instead saw '=='                           eqeqeq
+  439:26   error  Expected '===' and instead saw '=='                           eqeqeq
+  439:52   error  Expected '===' and instead saw '=='                           eqeqeq
+  449:31   error  Expected '===' and instead saw '=='                           eqeqeq
+  453:47   error  Expected '===' and instead saw '=='                           eqeqeq
+  466:14   error  Expected error to be handled                                  handle-callback-err
+  481:11   error  '_open' is assigned a value but never used                    no-unused-vars
+  489:25   error  Expected '===' and instead saw '=='                           eqeqeq
+  492:41   error  Expected '===' and instead saw '=='                           eqeqeq
+  492:79   error  Expected '===' and instead saw '=='                           eqeqeq
+  498:42   error  Expected '===' and instead saw '=='                           eqeqeq
+  508:116  error  Expected '!==' and instead saw '!='                           eqeqeq
+  513:66   error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  513:107  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  523:32   error  Expected '===' and instead saw '=='                           eqeqeq
+  528:32   error  Expected '===' and instead saw '=='                           eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/passport/success.vue
+  17:8  error  'fun' is defined but never used     no-unused-vars
+  18:8  error  'apiUrl' is defined but never used  no-unused-vars
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/product/jdcProduct.vue
+   11:11  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   26:13  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   77:15  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   80:79  error  'ind' is defined but never used                               vue/no-unused-vars
+   81:19  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   89:19  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  125:15  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  146:15  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  160:13  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  166:19  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  167:19  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  180:15  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  193:21  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  201:66  error  'confIndex' is defined but never used                         vue/no-unused-vars
+  202:39  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  224:15  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  239:19  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+  282:36  error  Expected '===' and instead saw '=='                           eqeqeq
+  402:7   error  Duplicated key 'helpName'                                     vue/no-dupe-keys
+  402:7   error  Duplicate key 'helpName'                                      no-dupe-keys
+  661:9   error  Duplicate key 'dataintegration'                               no-dupe-keys
+  704:48  error  Expected '===' and instead saw '=='                           eqeqeq
+  714:37  error  Expected '!==' and instead saw '!='                           eqeqeq
+  722:40  error  Expected '===' and instead saw '=='                           eqeqeq
+  734:52  error  Expected "[" and "]" to be on the same line                   standard/computed-property-even-spacing
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/product/newProduct.vue
+   17:17  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   24:13  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   28:21  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   35:13  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+   83:11  error  Identifier 'date_obj' is not in camel case                    camelcase
+   98:11  error  Identifier 'get_date' is not in camel case                    camelcase
+  100:13  error  Identifier 'date_obj' is not in camel case                    camelcase
+  122:16  error  Identifier 'date_obj' is not in camel case                    camelcase
+  151:43  error  Expected '===' and instead saw '=='                           eqeqeq
+  152:57  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  152:91  error  Unexpected mix of '&&' and '||'                               no-mixed-operators
+  167:48  error  Expected '===' and instead saw '=='                           eqeqeq
+  185:51  error  Expected '===' and instead saw '=='                           eqeqeq
+  186:43  error  Expected '===' and instead saw '=='                           eqeqeq
+  196:13  error  'elevator' is already defined                                 no-redeclare
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/product/Product.vue
+    8:11  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+   13:9   error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+   32:15  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+   36:19  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+   44:19  error  Custom elements in iteration require 'v-bind:key' directives                                         vue/valid-v-for
+   55:20  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+   62:28  error  'v-if' and 'v-else' directives can't exist on the same element. You may want 'v-else-if' directives  vue/valid-v-if
+   62:68  error  'v-else' and 'v-if' directives can't exist on the same element. You may want 'v-else-if' directives  vue/valid-v-else
+   63:19  error  Custom elements in iteration require 'v-bind:key' directives                                         vue/valid-v-for
+   96:15  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  117:15  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  128:9   error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  131:13  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  132:13  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  143:13  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  152:25  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  152:85  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  211:11  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  219:15  error  Elements in iteration expect to have 'v-bind:key' directives                                         vue/require-v-for-key
+  247:34  error  Expected '===' and instead saw '=='                                                                  eqeqeq
+  365:7   error  Duplicated key 'helpName'                                                                            vue/no-dupe-keys
+  365:7   error  Duplicate key 'helpName'                                                                             no-dupe-keys
+  586:81  error  Expected '===' and instead saw '=='                                                                  eqeqeq
+  593:37  error  Expected '!==' and instead saw '!='                                                                  eqeqeq
+  601:40  error  Expected '===' and instead saw '=='                                                                  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/productTrial/area.vue
+  10:8   error  'apiUrl' is defined but never used                             no-unused-vars
+  52:9   error  Split initialized 'let' declarations into multiple statements  one-var
+  55:19  error  Expected '===' and instead saw '=='                            eqeqeq
+  63:39  error  Expected '===' and instead saw '=='                            eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/productTrial/disk.vue
+  21:8  error  'apiUrl' is defined but never used  no-unused-vars
+  22:8  error  'maps' is defined but never used    no-unused-vars
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/productTrial/payProduct.vue
+   27:29  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+   34:37  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+  106:29  error  Elements in iteration expect to have 'v-bind:key' directives   vue/require-v-for-key
+  264:15  error  Expected '===' and instead saw '=='                            eqeqeq
+  264:31  error  Expected '===' and instead saw '=='                            eqeqeq
+  272:29  error  Expected '===' and instead saw '=='                            eqeqeq
+  284:27  error  Expected '===' and instead saw '=='                            eqeqeq
+  296:33  error  Expected '===' and instead saw '=='                            eqeqeq
+  349:18  error  Expected '===' and instead saw '=='                            eqeqeq
+  359:18  error  Expected '===' and instead saw '=='                            eqeqeq
+  428:7   error  Split initialized 'let' declarations into multiple statements  one-var
+  428:26  error  'yearArr' is assigned a value but never used                   no-unused-vars
+  439:21  error  Expected '===' and instead saw '=='                            eqeqeq
+  444:21  error  Expected '===' and instead saw '=='                            eqeqeq
+  459:32  error  Expected '===' and instead saw '=='                            eqeqeq
+  459:54  error  Expected '===' and instead saw '=='                            eqeqeq
+  461:21  error  Expected '===' and instead saw '=='                            eqeqeq
+  466:21  error  Expected '===' and instead saw '=='                            eqeqeq
+  506:20  error  Expected '===' and instead saw '=='                            eqeqeq
+  509:18  error  Expected '===' and instead saw '=='                            eqeqeq
+  511:25  error  Expected '===' and instead saw '=='                            eqeqeq
+  513:25  error  Expected '===' and instead saw '=='                            eqeqeq
+  516:27  error  Expected '===' and instead saw '=='                            eqeqeq
+  558:23  error  Expected '===' and instead saw '=='                            eqeqeq
+  558:43  error  Expected '===' and instead saw '=='                            eqeqeq
+  561:42  error  Expected '!==' and instead saw '!='                            eqeqeq
+  562:29  error  Expected '===' and instead saw '=='                            eqeqeq
+  566:26  error  Expected '===' and instead saw '=='                            eqeqeq
+  572:29  error  Expected '===' and instead saw '=='                            eqeqeq
+  572:68  error  Expected '!==' and instead saw '!='                            eqeqeq
+  573:22  error  Expected '===' and instead saw '=='                            eqeqeq
+  577:25  error  Expected '===' and instead saw '=='                            eqeqeq
+  592:44  error  Expected '!==' and instead saw '!='                            eqeqeq
+  600:42  error  Expected '!==' and instead saw '!='                            eqeqeq
+  601:31  error  Expected '===' and instead saw '=='                            eqeqeq
+  624:26  error  Expected '===' and instead saw '=='                            eqeqeq
+  639:28  error  Expected '===' and instead saw '=='                            eqeqeq
+  641:35  error  Expected '===' and instead saw '=='                            eqeqeq
+  649:11  error  Split initialized 'var' declarations into multiple statements  one-var
+  650:46  error  Expected '!==' and instead saw '!='                            eqeqeq
+  655:48  error  Expected '!==' and instead saw '!='                            eqeqeq
+  680:30  error  Expected '!==' and instead saw '!='                            eqeqeq
+  691:11  error  'jaq' was used before it was defined                           no-use-before-define
+  698:40  error  Expected '===' and instead saw '=='                            eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/public/maintain.vue
+  14:7  error  Elements in iteration expect to have 'v-bind:key' directives  vue/require-v-for-key
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/public/testApply.vue
+   83:3   error  Parsing error: x-invalid-end-tag                                 vue/no-parsing-error
+  101:19  error  Expected '!==' and instead saw '!='                              eqeqeq
+  101:51  error  Expected '===' and instead saw '=='                              eqeqeq
+  116:17  error  Expected '!==' and instead saw '!='                              eqeqeq
+  116:49  error  Expected '===' and instead saw '=='                              eqeqeq
+  167:9   error  '_serviceCode' is assigned a value but never used                no-unused-vars
+  173:30  error  Expected '!==' and instead saw '!='                              eqeqeq
+  184:33  error  Expected '===' and instead saw '=='                              eqeqeq
+  184:55  error  Expected '===' and instead saw '=='                              eqeqeq
+  189:40  error  Expected '===' and instead saw '=='                              eqeqeq
+  194:40  error  Expected '===' and instead saw '=='                              eqeqeq
+  218:7   error  Split initialized 'var' declarations into multiple statements    one-var
+  219:11  error  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  220:43  error  Expected '===' and instead saw '=='                              eqeqeq
+  234:31  error  Expected '===' and instead saw '=='                              eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/service/experienceNew.vue
+  474:88   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  475:105  error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  476:61   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/cebc.vue
+  230:5    error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  230:115  error  Unexpected use of comma operator                                       no-sequences
+  230:526  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  230:585  error  Unexpected use of comma operator                                       no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/financial.vue
+  223:247  error  Parsing error: missing-whitespace-between-attributes  vue/no-parsing-error
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/integral.vue
+  169:5    error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  169:115  error  Unexpected use of comma operator                                       no-sequences
+  169:526  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  169:585  error  Unexpected use of comma operator                                       no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/newretail.vue
+  330:32  error  Expected '!==' and instead saw '!='  eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/newwebsite.vue
+  251:42   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  252:118  error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  253:35   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  254:31   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  255:43   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  256:28   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  257:33   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  258:45   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+  259:38   error  Parsing error: x-invalid-end-tag  vue/no-parsing-error
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/purchase.vue
+  218:5    error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  218:115  error  Unexpected use of comma operator                                       no-sequences
+  218:526  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  218:585  error  Unexpected use of comma operator                                       no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/resale.vue
+  220:5    error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  220:115  error  Unexpected use of comma operator                                       no-sequences
+  220:526  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  220:585  error  Unexpected use of comma operator                                       no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/staple.vue
+  201:5    error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  201:115  error  Unexpected use of comma operator                                       no-sequences
+  201:526  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  201:585  error  Unexpected use of comma operator                                       no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/trench.vue
+  207:7   error  Missing space before function parentheses                              space-before-function-paren
+  210:6   error  Extra semicolon                                                        semi
+  212:10  error  Missing space before function parentheses                              space-before-function-paren
+  213:5   error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  213:7   error  Strings must use singlequote                                           quotes
+  214:9   error  Strings must use singlequote                                           quotes
+  214:47  error  Strings must use singlequote                                           quotes
+  215:6   error  Unexpected use of comma operator                                       no-sequences
+  216:1   error  Expected indentation of 4 spaces but found 6                           indent
+  217:1   error  Expected indentation of 6 spaces but found 8                           indent
+  217:9   error  Strings must use singlequote                                           quotes
+  218:1   error  Expected indentation of 6 spaces but found 8                           indent
+  218:17  error  Missing space before function parentheses                              space-before-function-paren
+  219:1   error  Expected indentation of 8 spaces but found 10                          indent
+  219:13  error  Strings must use singlequote                                           quotes
+  220:1   error  Expected indentation of 10 spaces but found 12                         indent
+  220:24  error  Strings must use singlequote                                           quotes
+  221:1   error  Expected indentation of 10 spaces but found 12                         indent
+  221:21  error  Strings must use singlequote                                           quotes
+  222:1   error  Expected indentation of 10 spaces but found 12                         indent
+  223:1   error  Expected indentation of 10 spaces but found 12                         indent
+  224:1   error  Expected indentation of 10 spaces but found 12                         indent
+  224:21  error  Strings must use singlequote                                           quotes
+  225:1   error  Expected indentation of 10 spaces but found 12                         indent
+  225:21  error  Strings must use singlequote                                           quotes
+  226:1   error  Expected indentation of 10 spaces but found 12                         indent
+  227:1   error  Expected indentation of 10 spaces but found 12                         indent
+  228:1   error  Expected indentation of 10 spaces but found 12                         indent
+  229:1   error  Expected indentation of 8 spaces but found 10                          indent
+  229:13  error  Extra semicolon                                                        semi
+  230:1   error  Expected indentation of 6 spaces but found 8                           indent
+  231:1   error  Expected indentation of 4 spaces but found 6                           indent
+  231:8   error  Extra semicolon                                                        semi
+  232:7   error  Strings must use singlequote                                           quotes
+  232:63  error  Missing space before function parentheses                              space-before-function-paren
+  233:30  error  Extra semicolon                                                        semi
+  234:7   error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  235:19  error  Strings must use singlequote                                           quotes
+  237:22  error  Strings must use singlequote                                           quotes
+  237:31  error  Unexpected use of comma operator                                       no-sequences
+  238:1   error  Expected indentation of 6 spaces but found 8                           indent
+  238:11  error  Strings must use singlequote                                           quotes
+  239:1   error  Expected indentation of 6 spaces but found 8                           indent
+  239:11  error  Strings must use singlequote                                           quotes
+  240:1   error  Expected indentation of 8 spaces but found 10                          indent
+  241:1   error  Expected indentation of 8 spaces but found 10                          indent
+  241:18  error  Extra semicolon                                                        semi
+  242:7   error  Extra semicolon                                                        semi
+  245:16  error  Missing space before function parentheses                              space-before-function-paren
+  246:31  error  Extra semicolon                                                        semi
+  249:2   error  Extra semicolon                                                        semi
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/unboundedRetail.vue
+  124:21   error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  124:58   error  Unexpected use of comma operator                                       no-sequences
+  124:131  error  Expected an assignment or function call and instead saw an expression  no-unused-expressions
+  124:184  error  Unexpected use of comma operator                                       no-sequences
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/WMS.vue
+  103:47  error  Irregular whitespace not allowed  no-irregular-whitespace
+  104:47  error  Irregular whitespace not allowed  no-irregular-whitespace
+  106:47  error  Irregular whitespace not allowed  no-irregular-whitespace
+  107:47  error  Irregular whitespace not allowed  no-irregular-whitespace
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/wmsForm.vue
+   50:3   error  Parsing error: x-invalid-end-tag                                 vue/no-parsing-error
+   68:19  error  Expected '!==' and instead saw '!='                              eqeqeq
+   68:51  error  Expected '===' and instead saw '=='                              eqeqeq
+   80:19  error  Expected '===' and instead saw '=='                              eqeqeq
+   83:31  error  Expected '===' and instead saw '=='                              eqeqeq
+  132:9   error  '_self' is assigned a value but never used                       no-unused-vars
+  137:7   error  Split initialized 'var' declarations into multiple statements    one-var
+  138:11  error  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  139:43  error  Expected '===' and instead saw '=='                              eqeqeq
+  157:31  error  Expected '===' and instead saw '=='                              eqeqeq
+
+/Users/xiaoshuai/codes/front-end-structure/src/components/components/solution/yd.vue
+  175:11  error  'pSlider' is assigned a value but never used  no-unused-vars
+
+✖ 1054 problems (1054 errors, 0 warnings)
+  47 errors, 0 warnings potentially fixable with the `--fix` option.
+

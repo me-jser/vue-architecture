@@ -1,4 +1,3 @@
-
 /**
  * @file eslint
  * @description eslint检查工具，通过nodejs代理。如果未通过检查会询问用户是否进行autofix。只能选择y/n。 确认后会进行autofix
@@ -11,6 +10,7 @@ let prompt = require('prompt')
 const {
   exec
 } = require('child_process')
+
 let colors = require('./colors')
 let defaultCommand = 'eslint --ext .js,.vue src test/unit'
 let fixCommand = 'eslint --fix --ext .js,.vue src  test/unit'
@@ -21,7 +21,7 @@ exec(defaultCommand, (err, stdout, stderr) => {
   }
   if (stdout) {
     console.log(stdout)
-    console.log(colors.consoleRed, '检查未通过，请选择是否进行自动修复(使用eslint --fix)')
+    console.log(colors.consoleRed, '检查未通过，请选择是否尝试进行自动修复(使用eslint --fix)')
 
     let schema = {
       properties: {

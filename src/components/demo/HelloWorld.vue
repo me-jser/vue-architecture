@@ -1,11 +1,11 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+
   </div>
 </template>
 
 <script>
-import { objectValidation } from '@/util/utils'
+
 export default {
   name: 'HelloWorld',
   data () {
@@ -14,23 +14,16 @@ export default {
     }
   },
   methods: {
-    objValidae () {
-      let o = {
-        t: {
-          s: {
-            a: {
-              s: 1
-            }
-          }
-        }
-      }
-      if (objectValidation(o, 't.s.a')) {
-        console.log('bingo')
+    testRuleEqual () {
+      let a = 1
+      let b = 2
+      if (a === b) {
+        console.log('b')
       }
     }
   },
   mounted () {
-    this.objValidae()
+    this.testRuleEqual()
   }
 }
 </script>
